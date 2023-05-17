@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get started by editing&nbsp;
+          Welcome to the nextjs from feature-a branch&nbsp;
           <code className={styles.code}>app/page.js</code>
         </p>
         <div>
